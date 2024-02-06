@@ -1,3 +1,6 @@
+/*
+Q4. WAP to read and print employee information using multiple inheritance.
+*/
 #include<iostream>
 
 using namespace std;
