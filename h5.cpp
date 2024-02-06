@@ -1,3 +1,6 @@
+/*
+Q5. WAP to demonstrate example of hierarchical inheritance to get square and cube of a number.
+*/
 #include<iostream>
 
 using namespace std;
